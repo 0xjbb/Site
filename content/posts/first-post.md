@@ -1,7 +1,7 @@
 ---
 title: "[THM] Jeff 2 Writeup"
 date: 2020-11-20T15:05:13Z
-draft: true
+draft: false
 ---
 
 # This is my first post

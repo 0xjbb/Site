@@ -20,7 +20,7 @@ paginate     = 10
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "I hack sutf kek"
+  description = "I hack stuff kek"
   keywords = "homepage, blog"
   images = [""]
 

@@ -1,7 +1,7 @@
 ---
 title: "[THM] Jeff Writeup"
 date: 2020-11-20T15:07:21Z
-draft: true
+draft: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
